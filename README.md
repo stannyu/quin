@@ -40,6 +40,9 @@ I also didnt initially setup with TS coz I knew this might take more time and I 
  That was my 2,5 hours for this task.
  This is not an excuse (even if it is not that much completed) but my timeline explanation.
  
+ **Main struggle was unfamiliarity with UI libraries and Google maps, especially maps API key, so the only thing I would change
+ is that I would check these two things in advance. Then I would be able to complete at least couple of user stories.**
+ 
  #### Setup
  
  Just install dependencies using `yarn install` and run `yarn start` to start project on `http://localhost:3000/`
